@@ -1,0 +1,28 @@
+            body {
+                text-align: center;
+                font-family: 'Merriweather', serif;
+            }
+            
+            .top_container {
+                background-color: aquamarine;
+                position: relative;
+                padding-top: 100px;
+                margin: 0px;
+            }
+            
+            h1 {
+                font-family: 'Sacramento', cursive;
+                font-size: 5.25em;
+                margin: 0 auto 0 auto;
+            }
+            
+            .bottom_cloud {
+                position: absolute;
+                left: 300px;
+            }
+            
+            .top_cloud {
+                position: absolute;
+                right: 300px;
+                top: 50px;
+            }
